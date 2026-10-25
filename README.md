@@ -91,8 +91,6 @@ Blackout is a utility for dimming selected monitors with customizable hotkeys. P
 - **Monitors not detected:** Check that your monitor drivers are installed correctly.
 
 ## License
-MIT License. See LICENSE file.
-
-**For any commercial use, a separate agreement with the author is required. Contact: Android620072@yandex.ru**
+MIT License. See the [LICENSE](LICENSE) file.
 
 **Author: Kirill** 
